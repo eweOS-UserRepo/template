@@ -1,0 +1,14 @@
+pkgbase = hello
+	pkgdesc = Prints Hello World and more
+	pkgver = 2.12.1
+	pkgrel = 2
+	url = https://www.gnu.org/software/hello/
+	arch = x86_64
+	arch = aarch64
+	arch = riscv64
+	arch = loongarch64
+	license = GPL
+	source = https://ftp.gnu.org/gnu/hello/hello-2.12.1.tar.gz
+	sha256sums = 8d99142afd92576f30b0cd7cb42a8dc6809998bc5d607d88761f512e26c7db20
+
+pkgname = hello
